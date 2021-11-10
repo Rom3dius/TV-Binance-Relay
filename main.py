@@ -12,8 +12,8 @@ from aiotinydb import AIOTinyDB
 async def timestamp():
     return str(int(round(time.time() * 1000)))
 
-APIKEY = "d93hhGVEIJAo5tnar7fZuCY8uxn7Vl6O62YWHJwokSoYeiSzfEfmmArHzsYM1nMr"
-secret = "Eh2r2TTWquh1jsOPqdBzFW9JFw5iMVbgXz45feFxhcnt2m7waTDtpXTFJzM5oQbH"
+APIKEY = 
+secret = 
 
 class Requests():
     def __init__(self):
